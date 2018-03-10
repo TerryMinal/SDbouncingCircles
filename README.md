@@ -1,6 +1,6 @@
 # SDbouncingCircles
 
-Terry Guan
+Team Gum: Terry Guan, Shakil Rafi
 SoftDev2 pd7
 K #11: All That Bouncin’ Bouncin’ Bouncin’ Bouncin’ Bouncin’ Bouncin’ Bouncin’ Bouncin’ Bouncin’
 Due M 2018-03-12, 8:00am, EST.
